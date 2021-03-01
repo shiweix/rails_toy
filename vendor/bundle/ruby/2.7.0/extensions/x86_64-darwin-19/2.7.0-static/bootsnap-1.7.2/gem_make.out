@@ -1,0 +1,15 @@
+current directory: /Volumes/workplace/MyRailsProject/blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+/Users/shiweix/.rubies/ruby-2.7.2/bin/ruby -I /Users/shiweix/.rubies/ruby-2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210228-32841-4fb0fd.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/workplace/MyRailsProject/blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Volumes/workplace/MyRailsProject/blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Volumes/workplace/MyRailsProject/blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210228-32841-12ujbdo/bootsnap
